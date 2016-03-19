@@ -13,8 +13,8 @@ https://plus.google.com/u/0/b/116366008953419115578/116366008953419115578/videos
  
  
 #EXTINF:-1,MBC 1
-http://iptv333.mine.nu:8000/live/helmi/helmi/1379.ts
- 
+http://streamup.global.ssl.fastly.net/app/sami2015s-channel/chunklist.m3u8
+
 #EXTINF:-1, MBC 3
 http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8
 
@@ -34,8 +34,7 @@ http://ipsatpro.com:8000/live/85200/85200/43.ts
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
  
 #EXTINF:-1, MBC Drama
-http://ipsatpro.com:8000/live/85200/85200/42.ts
- 
+http://streamup.global.ssl.fastly.net/app/sami2016s-channel/chunklist.m3u8 
  
  
  
