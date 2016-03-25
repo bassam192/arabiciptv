@@ -9,16 +9,12 @@ https://plus.google.com/u/0/b/116366008953419115578/116366008953419115578/videos
  
  
 ######################### MBC ######################################
-#EXTINF:-1,OSN-MOVIES-HD
-http://iptv.am000.tv:8000/live/add1/add1/25.ts
 
-#EXTINF:-1, tvg-name="ITV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/759.png", ITV
-http://www.tudandy.com/demoface.php?id=2447&f=.m3u8
 
 #EXTINF:-1, tvg-name="MBC 1" tvg-logo="http://2.bp.blogspot.com/-i4Sw2z4wehc/Vb9E4NdGCqI/AAAAAAAACuY/tvRvra6H7aM/s1600/mbc1-me.png", MBC 1
 http://iptv-supplier.com:8000/live/Sbon/Sbon/106.m3u8
 
-#EXTINF:-1, MBC 3
+#EXTINF:-1, tvg-name="MBC 3" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825142807_channelsbig.png",
 http://arabic.dynns.com:8081/arabic/MBC3/chunks.m3u8
 
 #EXTINF:-1,MBC2
