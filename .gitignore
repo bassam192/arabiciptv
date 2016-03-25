@@ -14,7 +14,7 @@ https://plus.google.com/u/0/b/116366008953419115578/116366008953419115578/videos
 #EXTINF:-1, tvg-name="MBC 1" tvg-logo="http://2.bp.blogspot.com/-i4Sw2z4wehc/Vb9E4NdGCqI/AAAAAAAACuY/tvRvra6H7aM/s1600/mbc1-me.png", MBC 1
 http://iptv-supplier.com:8000/live/Sbon/Sbon/106.m3u8
 
-#EXTINF:-1, tvg-name="MBC 3" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825142807_channelsbig.png",
+#EXTINF:-1, tvg-name="MBC 3" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825142807_channelsbig.png", MBC 3
 http://arabic.dynns.com:8081/arabic/MBC3/chunks.m3u8
 
 #EXTINF:-1,MBC2
